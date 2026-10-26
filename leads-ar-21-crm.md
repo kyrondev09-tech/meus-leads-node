@@ -1,0 +1,361 @@
+# Leads ar-condicionado DDD 21 — 2026-10-26
+
+### 1. Fllex.serviços - Climatização e elétrica
+- **Nome do lead / contato:** Fllex.serviços - Climatização e elétrica
+- **Empresa:** Fllex.serviços - Climatização e elétrica
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 99328-5775
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Alta
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/fllex.servicos/
+- **Link do Google Maps:** https://maps.google.com/?cid=16494057106831713008
+- **Notas de Abordagem:** 5★ com 55 avaliações no Maps e Instagram ativo (930 seguidores, publica bastante vídeo (12 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Grande Rio.
+
+### 2. R3 Ar Condicionado - Eletricidade - Segurança Eletrônica - Automação Residencial
+- **Nome do lead / contato:** R3 Ar Condicionado - Eletricidade - Segurança Eletrônica - Automação Residencial
+- **Empresa:** R3 Ar Condicionado - Eletricidade - Segurança Eletrônica - Automação Residencial
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 99854-1697
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Alta
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/r3tec/
+- **Link do Google Maps:** https://maps.google.com/?cid=13642194479056819980
+- **Notas de Abordagem:** 5★ com 44 avaliações no Maps e Instagram ativo (210 seguidores, publica bastante vídeo (11 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Niterói.
+
+### 3. ARS REFRIGERAÇÃO
+- **Nome do lead / contato:** ARS REFRIGERAÇÃO
+- **Empresa:** ARS REFRIGERAÇÃO
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 97325-4200
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Alta
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/ars.refrigeracao1/
+- **Link do Google Maps:** https://maps.google.com/?cid=7326631686138074138
+- **Notas de Abordagem:** 5★ com 39 avaliações no Maps e Instagram ativo (203 seguidores, publica bastante vídeo (11 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Maricá.
+
+### 4. Equipe Rio Refrigeração
+- **Nome do lead / contato:** Equipe Rio Ar condicionado (Equipe Rio Refrigeração)
+- **Empresa:** Equipe Rio Refrigeração
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 3734-9695
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Alta
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/equiperiorefrigeracao/
+- **Link do Google Maps:** https://maps.google.com/?cid=1409038360417455598
+- **Notas de Abordagem:** 4.9★ com 351 avaliações no Maps e Instagram ativo (1068 seguidores, publica bastante vídeo (9 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; a bio do Instagram manda direto para o WhatsApp. Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 5. Corrêa Climatização
+- **Nome do lead / contato:** Corrêa Climatização
+- **Empresa:** Corrêa Climatização
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 98813-7618
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/correa.climatizacao.rj/
+- **Link do Google Maps:** https://maps.google.com/?cid=13065891709922363852
+- **Notas de Abordagem:** 5★ com 94 avaliações no Maps e Instagram ativo (858 seguidores, publica bastante vídeo (11 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Grande Rio.
+
+### 6. Refrigeração Irmãos Lessa
+- **Nome do lead / contato:** Refrigeração Irmãos Lessa
+- **Empresa:** Refrigeração Irmãos Lessa
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 98119-6360
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/refrigeracaoirmaoslessa/
+- **Link do Google Maps:** https://maps.google.com/?cid=667652414158151971
+- **Notas de Abordagem:** 5★ com 105 avaliações no Maps e Instagram ativo (1341 seguidores, publica bastante vídeo (10 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Niterói.
+
+### 7. Porto Frio Refrigeração RJ
+- **Nome do lead / contato:** Porto Frio Refrigeração RJ
+- **Empresa:** Porto Frio Refrigeração RJ
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 96997-3749
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Alta
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/portofriorj/
+- **Link do Google Maps:** https://maps.google.com/?cid=7890022939150261217
+- **Notas de Abordagem:** 4.7★ com 129 avaliações no Maps e Instagram ativo (457 seguidores, publica bastante vídeo (8 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 8. ClimatizaçãoSid
+- **Nome do lead / contato:** Sidney Reis de Oliveira (ClimatizaçãoSid)
+- **Empresa:** ClimatizaçãoSid
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 98914-1007
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/climatizacaosid/
+- **Link do Google Maps:** https://maps.google.com/?cid=7297455948998432986
+- **Notas de Abordagem:** 5★ com 152 avaliações no Maps e Instagram ativo (1192 seguidores, publica bastante vídeo (8 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; a bio não tem link nenhum. Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Duque de Caxias.
+
+### 9. FF Clima Frio
+- **Nome do lead / contato:** FF Clima Frio
+- **Empresa:** FF Clima Frio
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 97565-4365
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/ffclimafrio/
+- **Link do Google Maps:** https://maps.google.com/?cid=18067061814936399135
+- **Notas de Abordagem:** 5★ com 48 avaliações no Maps e Instagram ativo (1524 seguidores, publica bastante vídeo (10 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 10. Clima Oest l Refrigeração e Climatização l Ar Condicionado l Refrigeração Comercial
+- **Nome do lead / contato:** Clima Oest Refrigeração (Clima Oest l Refrigeração e Climatização l Ar Condicionado l Refrigeração Comercial)
+- **Empresa:** Clima Oest l Refrigeração e Climatização l Ar Condicionado l Refrigeração Comercial
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 2401-6078
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Alta
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/climaoestrefrigeracao/
+- **Link do Google Maps:** https://maps.google.com/?cid=8780378309465999946
+- **Notas de Abordagem:** 4.5★ com 362 avaliações no Maps e Instagram ativo (1518 seguidores, publica bastante vídeo (6 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; a bio não tem link nenhum. Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 11. O Seu Split
+- **Nome do lead / contato:** O Seu Split
+- **Empresa:** O Seu Split
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 99660-0828
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Alta
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/oseusplit/
+- **Link do Google Maps:** https://maps.google.com/?cid=13706941558916188656
+- **Notas de Abordagem:** 5★ com 102 avaliações no Maps e Instagram ativo (1217 seguidores, publica bastante vídeo (7 reels nos últimos 11 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 12. Split Ilha
+- **Nome do lead / contato:** Paulo Rosendo - split ilha ar condicionado (Split Ilha)
+- **Empresa:** Split Ilha
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 98315-9244
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Alta
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/split_ilha/
+- **Link do Google Maps:** https://maps.google.com/?cid=17603634643105821405
+- **Notas de Abordagem:** 5★ com 141 avaliações no Maps e Instagram ativo (8843 seguidores, publica bastante vídeo (7 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; a bio do Instagram manda direto para o WhatsApp. Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 13. DC climatização
+- **Nome do lead / contato:** DC climatização
+- **Empresa:** DC climatização
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 97235-2437
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/dc_climatizacaorio/
+- **Link do Google Maps:** https://maps.google.com/?cid=4057201765626607761
+- **Notas de Abordagem:** 4.9★ com 36 avaliações no Maps e Instagram ativo (2055 seguidores, publica bastante vídeo (8 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 14. Lynart refrigeração
+- **Nome do lead / contato:** Lynart refrigeração
+- **Empresa:** Lynart refrigeração
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 96408-2359
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Alta
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/lynart_refrigeracao/
+- **Link do Google Maps:** https://maps.google.com/?cid=15987359107638000703
+- **Notas de Abordagem:** 4.9★ com 29 avaliações no Maps e Instagram ativo (356 seguidores, publica bastante vídeo (6 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 15. Polar Rio Refrigeração
+- **Nome do lead / contato:** Polar Rio Refrigeração
+- **Empresa:** Polar Rio Refrigeração
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 99300-9782
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Alta
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/polar_riorefrigeracao/
+- **Link do Google Maps:** https://maps.google.com/?cid=10522827093117482094
+- **Notas de Abordagem:** 5★ com 27 avaliações no Maps e Instagram ativo (346 seguidores, publica bastante vídeo (6 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 16. PEJ Soluções em Climatização
+- **Nome do lead / contato:** PEJ Climatização RJ | Split (PEJ Soluções em Climatização)
+- **Empresa:** PEJ Soluções em Climatização
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 99122-9692
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Alta
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/pej_solucoes/
+- **Link do Google Maps:** https://maps.google.com/?cid=2193800663843140289
+- **Notas de Abordagem:** 5★ com 21 avaliações no Maps e Instagram ativo (2206 seguidores, publica bastante vídeo (6 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; a bio não tem link nenhum. Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Duque de Caxias.
+
+### 17. Barcelos Climatização
+- **Nome do lead / contato:** Barcelos Climatização
+- **Empresa:** Barcelos Climatização
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 96410-6958
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/barcelos.climatizacao/
+- **Link do Google Maps:** https://maps.google.com/?cid=1330455658415417582
+- **Notas de Abordagem:** 5★ com 83 avaliações no Maps e Instagram ativo (2792 seguidores, publica bastante vídeo (8 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 18. Buscaroli Refrigeração
+- **Nome do lead / contato:** GB Buscaroli (Buscaroli Refrigeração)
+- **Empresa:** Buscaroli Refrigeração
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 98152-6171
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/buscaroli_refrigeracao/
+- **Link do Google Maps:** https://maps.google.com/?cid=4607268231236005114
+- **Notas de Abordagem:** 5★ com 155 avaliações no Maps e Instagram ativo (1039 seguidores, publica bastante vídeo (5 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; a bio não tem link nenhum. Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 19. Friolar Refrigeração Campo Grande
+- **Nome do lead / contato:** Friolar Refrigeração Campo Grande
+- **Empresa:** Friolar Refrigeração Campo Grande
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 2431-5497
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/friolarrj/
+- **Link do Google Maps:** https://maps.google.com/?cid=1258364780019730133
+- **Notas de Abordagem:** 4.7★ com 64 avaliações no Maps e Instagram ativo (3012 seguidores, publica bastante vídeo (5 reels nos últimos 10 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 20. Refrigeração Neto e Ferreira
+- **Nome do lead / contato:** Refrigeração Neto e Ferreira
+- **Empresa:** Refrigeração Neto e Ferreira
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 3342-6125
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/netoeferreira/
+- **Link do Google Maps:** https://maps.google.com/?cid=16773692428554294300
+- **Notas de Abordagem:** 4.5★ com 1124 avaliações no Maps e Instagram ativo (2267 seguidores, posta com regularidade (último post em 2026-10-08)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; o link da bio aponta para outra rede social. Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 21. Help Split Climatização/Refrigeração
+- **Nome do lead / contato:** Help Split Climatização/Refrigeração
+- **Empresa:** Help Split Climatização/Refrigeração
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 98529-9470
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/helpsplit/
+- **Link do Google Maps:** https://maps.google.com/?cid=5124234439522385454
+- **Notas de Abordagem:** 4.8★ com 82 avaliações no Maps e Instagram ativo (1403 seguidores, publica bastante vídeo (6 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Niterói.
+
+### 22. Shopping Rio Refrigeração
+- **Nome do lead / contato:** Shopping Rio Refrigeração
+- **Empresa:** Shopping Rio Refrigeração
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 99042-3146
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/shoppingriorefrigeracao/
+- **Link do Google Maps:** https://maps.google.com/?cid=16406251035794522883
+- **Notas de Abordagem:** 4.9★ com 122 avaliações no Maps e Instagram ativo (2031 seguidores, posta com regularidade (último post em 2026-10-17)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 23. JL Refrigeração e Climatização
+- **Nome do lead / contato:** JL Refrigeração e Climatização
+- **Empresa:** JL Refrigeração e Climatização
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 96558-4071
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/jlrefrigeracao/
+- **Link do Google Maps:** https://maps.google.com/?cid=4995562499993353551
+- **Notas de Abordagem:** 4.9★ com 55 avaliações no Maps e Instagram ativo (2607 seguidores, publica bastante vídeo (4 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 24. GSB CLIMATIZAÇÃO
+- **Nome do lead / contato:** GSB CLIMATIZAÇÃO
+- **Empresa:** GSB CLIMATIZAÇÃO
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 96479-8754
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/gsb_climatizacao/
+- **Link do Google Maps:** https://maps.google.com/?cid=4521536258314796177
+- **Notas de Abordagem:** 5★ com 22 avaliações no Maps e Instagram ativo (778 seguidores, posta com regularidade (último post em 2026-10-25)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no São Gonçalo.
+
+### 25. Poloar - Niterói
+- **Nome do lead / contato:** Poloar - Niterói
+- **Empresa:** Poloar - Niterói
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 97067-0591
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/poloarrj/
+- **Link do Google Maps:** https://maps.google.com/?cid=15334448679209158898
+- **Notas de Abordagem:** 4.7★ com 72 avaliações no Maps e Instagram ativo (2781 seguidores, posta com regularidade (último post em 2026-10-23)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Niterói.
+
+### 26. CLIMA DE MONTANHA REFRIGERAÇÃO - SARACURUNA
+- **Nome do lead / contato:** CLIMA DE MONTANHA REFRIGERAÇÃO - SARACURUNA
+- **Empresa:** CLIMA DE MONTANHA REFRIGERAÇÃO - SARACURUNA
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 99953-8618
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/climademontanharefrigeracao/
+- **Link do Google Maps:** https://maps.google.com/?cid=14840109514077161078
+- **Notas de Abordagem:** 4.9★ com 39 avaliações no Maps e Instagram grande mas com o último post há 62 dias (14000 seguidores, publica bastante vídeo (5 reels nos últimos 12 posts)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Duque de Caxias.
+
+### 27. Capela Climatização e Elétrica
+- **Nome do lead / contato:** Capela Climatização e Elétrica
+- **Empresa:** Capela Climatização e Elétrica
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 97007-4767
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/capelaref/
+- **Link do Google Maps:** https://maps.google.com/?cid=1846581970379289763
+- **Notas de Abordagem:** 5★ com 43 avaliações no Maps e Instagram ativo (30 seguidores, posta com regularidade (último post em 2026-10-14)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 28. TechFrio Soluções Refrigeração e Ar Condicionado
+- **Nome do lead / contato:** TechFrio Soluções Refrigeração e Ar Condicionado
+- **Empresa:** TechFrio Soluções Refrigeração e Ar Condicionado
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 3977-1782
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/techfriosolucoes/
+- **Link do Google Maps:** https://maps.google.com/?cid=11004694767140785971
+- **Notas de Abordagem:** 4.9★ com 47 avaliações no Maps e Instagram ativo (735 seguidores, posta com regularidade (último post em 2026-10-24)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.
+
+### 29. O Mestre do Ar Condicionado Climatização & Refrigeração
+- **Nome do lead / contato:** O Mestre do Ar Condicionado Climatização & Refrigeração
+- **Empresa:** O Mestre do Ar Condicionado Climatização & Refrigeração
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 97514-1133
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/tcaarcondicionado/
+- **Link do Google Maps:** https://maps.google.com/?cid=18005210028297627512
+- **Notas de Abordagem:** 5★ com 27 avaliações no Maps e Instagram ativo (96 seguidores, posta com regularidade (último post em 2026-10-12)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Duque de Caxias.
+
+### 30. IGOR SILVA CLIMATIZAÇÃO
+- **Nome do lead / contato:** IGOR SILVA CLIMATIZAÇÃO
+- **Empresa:** IGOR SILVA CLIMATIZAÇÃO
+- **E-mail:** —
+- **Telefone / WhatsApp:** (21) 96909-4841
+- **Etapa do pipeline:** Novo Lead
+- **Prioridade:** Média
+- **Origem do lead:** Google Maps / Outbound
+- **Instagram:** https://www.instagram.com/igorsilva.ar/
+- **Link do Google Maps:** https://maps.google.com/?cid=3666930960950242651
+- **Notas de Abordagem:** 4.9★ com 39 avaliações no Maps e Instagram ativo (1248 seguidores, posta com regularidade (último post em 2026-10-23)). Não tem site: o botão "Website" do Maps está vazio ou aponta para rede social/WhatsApp; link da bio por confirmar (o Instagram bloqueou a releitura sem login). Gancho: a reputação já gera procura no Maps e no Instagram, mas não há uma página rápida com serviços, área de atendimento, avaliações e botão de orçamento por WhatsApp para converter esse tráfego — propor site leve focado em instalação/manutenção de split no Rio de Janeiro.

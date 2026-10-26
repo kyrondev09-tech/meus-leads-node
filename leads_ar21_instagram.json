@@ -1,0 +1,4547 @@
+{
+  "0x9bd9ba3f4d3bdf:0xe8c8206497a3541c": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/5521964122069"
+    },
+    "instagram": {
+      "usuario": "netoeferreira",
+      "existe": true,
+      "url": "https://www.instagram.com/netoeferreira/",
+      "nomePerfil": "Refrigeração Neto e Ferreira",
+      "seguidores": 2267,
+      "posts": 283,
+      "bio": "Referência à mais de 20 anos, vendemos peças e ferramentas para manutenção de lava e seca, geladeira, fogão, microondas e ar condicionado.\nWhatsapp ⬇️",
+      "email": null,
+      "linkBio": "https://bit.ly/3DQuj3W",
+      "tipoLinkBio": "rede social/genérico",
+      "ultimoPost": "2026-10-08",
+      "diasDesdeUltimo": 18,
+      "postsUltimos90": 1,
+      "reelsNaGrade": 2,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:40:36.086Z",
+      "fonte": "busca"
+    }
+  },
+  "0x9bd91643eb3427:0x677e1e34f44e068b": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": {
+      "usuario": "jc_split",
+      "existe": true,
+      "url": "https://www.instagram.com/jc_split/",
+      "nomePerfil": "JC instalações",
+      "seguidores": 256,
+      "posts": 7,
+      "bio": "ar condicionado \ninstalação \nlimpeza e higienização \nmanutenção",
+      "email": null,
+      "linkBio": "https://guilhermeferreiragf248024-bit.github.io/jc-ar-condicionado/",
+      "tipoLinkBio": "site próprio",
+      "ultimoPost": "2026-07-22",
+      "diasDesdeUltimo": 96,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 6,
+      "itensNaGrade": 7,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:40:42.025Z",
+      "fonte": "busca"
+    },
+    "siteBio": {
+      "tipo": "profissional",
+      "url": "https://guilhermeferreiragf248024-bit.github.io/jc-ar-condicionado/",
+      "ms": 899
+    }
+  },
+  "0x9be1711892b8e1:0x5f209703dbb2fb26": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9be17c9e6a943d:0xe0b3b0eb9890289e": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.acrefrigeracao.com.br/",
+      "ms": 1251
+    }
+  },
+  "0x9bdd67d5e08a87:0x304a74e1c50d4322": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://recreiorefrigeracao.com.br/",
+      "ms": 3053
+    }
+  },
+  "0x9bddc186960beb:0x8ac4a2bcd3ab7022": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://riofrioclimatizacao.com.br/",
+      "ms": 2261
+    }
+  },
+  "0x9967b296cfaa7f:0x3cd223ed41672c8d": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.tecmalta.com.br/",
+      "ms": 761
+    }
+  },
+  "0x54b11e05ce20a15:0x52397680e86523a3": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://chcleanrefrigeracao.com.br/",
+      "ms": 1682
+    }
+  },
+  "0x9985556d6d84d9:0x3566874fcbdf2725": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://tectrimrefrigeracao.com.br/",
+      "ms": 1941
+    }
+  },
+  "0x9961ab674afd97:0xd584d7d9725ec66e": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://refrimarqclimatizacao.com/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://refrimarqclimatizacao.)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997f1c93c714ad:0x33582354c8705cef": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9987fc08e39bab:0xcce645c4e139a4f9": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bdff62de6a4fb:0x9fd81cb0b27cf5c8": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://refrigeracaorealclima.com.br/",
+      "ms": 1318
+    }
+  },
+  "0x99658c46f0564b:0x289b9a2ad23e0dc1": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://climarmaq.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://climarmaq.com.br/)"
+    },
+    "instagram": {
+      "usuario": "climarmaq_refrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/climarmaq_refrigeracao/",
+      "nomePerfil": "ClimarMaq Refrigeração",
+      "seguidores": 245,
+      "posts": 24,
+      "bio": "🔹Assistência Técnica Especializada\n🔹Atendemos Todo RJ Geladeira e Máquina!\n🔹Trabalhamos com: BRASTEMP/CONSUL/ ELECTROLUX e BOSH!",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": "2026-08-18",
+      "diasDesdeUltimo": 69,
+      "postsUltimos90": 2,
+      "reelsNaGrade": 6,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:39:10.151Z",
+      "fonte": "@ deduzido do nome"
+    },
+    "tentativaIg": 2
+  },
+  "0x99601f68f52dad:0x79da2b8d51440a4a": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/climaoestrefrigeracao/"
+    },
+    "instagram": {
+      "usuario": "climaoestrefrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/climaoestrefrigeracao/",
+      "nomePerfil": "Clima Oest Refrigeração",
+      "seguidores": 1518,
+      "posts": 1043,
+      "bio": "❄️ Tudo para Refrigeração em um só lugar\n🏆 Especialistas desde a venda até o suporte técnico\n🔧 Ferramentas • Peças • Gases • Compressores\nBangu – RJ",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": "2026-10-26",
+      "diasDesdeUltimo": 0,
+      "postsUltimos90": 10,
+      "reelsNaGrade": 6,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:39:15.859Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x99973ed9d4288f:0x3d4255b9fd92c4a7": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9977437ec0174b:0x138de8ec6394cdee": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://instagram.com/equiperiorefrigeracao?igshid=MzRlODBiNWFlZA=="
+    },
+    "instagram": {
+      "usuario": "equiperiorefrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/equiperiorefrigeracao/",
+      "nomePerfil": "Equipe Rio Ar condicionado",
+      "seguidores": 1068,
+      "posts": 47,
+      "bio": "ESPECIALISTAS EM AR CONDICIONADO A 12 ANOS👨🏽‍🔧\nInstalação de split com 1 ANO DE GARANTIA ❄️ Higienização preventiva❄️\nConsertos ❄️Vendas❄️\nWhatsApp ⬇️",
+      "email": null,
+      "linkBio": "https://wa.me/message/FNOQ77PJIRREE1",
+      "tipoLinkBio": "WhatsApp direto",
+      "ultimoPost": "2026-10-15",
+      "diasDesdeUltimo": 11,
+      "postsUltimos90": 9,
+      "reelsNaGrade": 9,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:39:21.920Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x997d99042d607b:0x735f47af9be5cd69": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.mficlimatizacao.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at http://www.mficlimatizacao.com)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd84c83593747:0x1d69cf0b8d1eb948": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://felipedosplit.com.br/",
+      "ms": 436
+    }
+  },
+  "0x9997e6e40504e3:0x9d424b7ad576834d": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.marinsrefrigeracao.com.br/",
+      "ms": 2546
+    }
+  },
+  "0x9965656ebb13d3:0xc14996a64fc47736": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://congelartec-refrigeracao.com/congelartec-refrigeracao-e-climatizacao/",
+      "ms": 1518
+    }
+  },
+  "0x6c455c3a196479f5:0x2fac52151c4fda68": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.dupointrefrigeracao.com.br/",
+      "ms": 576
+    }
+  },
+  "0x99836731606ac3:0x6067f6a257f570a5": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://gevrefrigeracao.com.br/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4093802220601495882",
+      "ms": 5321
+    }
+  },
+  "0x9bd9bcf37c9d19:0xb46be5333a0e6d06": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/refrisennaarcond?igsh=N2p5MWNxMnQ5cWlr&utm_source=qr"
+    },
+    "instagram": {
+      "usuario": "refrisennaarcond",
+      "existe": true,
+      "url": "https://www.instagram.com/refrisennaarcond/",
+      "nomePerfil": "Refri Senna Ar automotivo",
+      "seguidores": 1078,
+      "posts": 4,
+      "bio": "Oficina especializada em ar condicionado automotivo.\nAv Tenente coronel Muniz de Aragão 2400 📌 (Jacarepaguá)",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": "2026-10-18",
+      "diasDesdeUltimo": 8,
+      "postsUltimos90": 2,
+      "reelsNaGrade": 1,
+      "itensNaGrade": 4,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:39:49.131Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x9983159ced556d:0x5f1fa62330cbdf2d": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.unizza.com.br/",
+      "ms": 3277
+    }
+  },
+  "0x9be3771d48b515:0x93124d839de81293": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://zellosolucoes.com.br/",
+      "ms": 1991
+    }
+  },
+  "0x998f29eb3f5125:0xcd2897bd685d998e": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://instagram.com/refrig.oceanica?igshid=4ng3k4fu9lc6"
+    },
+    "instagram": {
+      "usuario": "refrig.oceanica",
+      "existe": true,
+      "url": "https://www.instagram.com/refrig.oceanica/",
+      "nomePerfil": "Refrigeração Oceânica",
+      "seguidores": 7980,
+      "posts": 284,
+      "bio": "🦈 INSTALAÇÃO de Ar Condicionado\n🦈 CONTRATO de Manutenção RJ\n🦈 VENDA de AR CONDICIONADO em 10x • FRETE GRÁTIS\n🦈 (21) 98126-6734\n🚨ASSISTA AOS STORIES🚨",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": "2026-04-15",
+      "diasDesdeUltimo": 193,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 7,
+      "itensNaGrade": 11,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:39:54.530Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x9bd9fcfc5440a9:0x29197c47aa8c8f22": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://patriarcaconsertos.com.br/",
+      "ms": 2615
+    }
+  },
+  "0x99c00e67909ef1:0x9ed2e5b8f7f1b906": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997f037ef7d403:0x53a791df4b3c7546": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://asrefrigeracao.com/",
+      "ms": 1281
+    }
+  },
+  "0x997fcdd9ddefcb:0x57c4f86fa24228a5": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.villelatec.com.br/",
+      "ms": 2442
+    }
+  },
+  "0x997fcf8da97297:0x94fa67cdac14c975": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997d72a66c31d5:0x69b3b509397117f7": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bc3ac2b99bddf:0x3045dd8a86eb9472": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://cfpclimatizacao.com.br/",
+      "ms": 1874
+    }
+  },
+  "0x997bbbf1f9385f:0xcac583330cecddef": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.refritron.com.br/",
+      "ms": 2659
+    }
+  },
+  "0x9bd5e40a32926f:0x15f84465c12cb1bc": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/5521991736354"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9967a9f6799e7d:0x68dbf91fc6e9901d": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x96135fb37fab24d:0x14f037ccf24e4deb": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.1000tech.com.br/",
+      "ms": 813
+    }
+  },
+  "0x997a95590c5369:0xc6c75adfde9b8a49": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://microquality.weebly.com/",
+      "ms": 3718
+    }
+  },
+  "0x995b004ccb0213:0x4eaa3c94a64c57da": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.souzatechgeladeiras.com.br/",
+      "ms": 657
+    }
+  },
+  "0xe6c34022a94706d:0x7055b4d27b9cfb15": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": {
+      "usuario": "mtsrefrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/mtsrefrigeracao/",
+      "nomePerfil": "Mts Refrigeração / Climatização",
+      "seguidores": 137,
+      "posts": 31,
+      "bio": "❄️ Refrigeração e Climatização 🛠️ Manutenção,Instalação limpeza \n📍RJ\n📱Orçamento no WhatsApp👇🏼\n21969932417",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": "2026-06-13",
+      "diasDesdeUltimo": 135,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 5,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:42:28.895Z",
+      "fonte": "@ deduzido do nome"
+    },
+    "tentativaIg": 2
+  },
+  "0xe7189d2cac25879:0x1910d6bcbd16cfad": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.urclima.com.br/",
+      "ms": 4169
+    }
+  },
+  "0x99665457c981ad:0xa1be4327b14348f2": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.refrigeracaocatavento.com.br/",
+      "ms": 3183
+    }
+  },
+  "0x99679840502fe7:0xe64eb39a510c28b8": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/message/FMQVJDRDFEAJE1"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd9b6580aac77:0xf808937ca23679bc": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": {
+      "usuario": "rio_sul_refrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/rio_sul_refrigeracao/",
+      "nomePerfil": "RIOSUL REFRIGERAÇÃO ❄",
+      "seguidores": 263,
+      "posts": 410,
+      "bio": "•Marque sua visita técnica 👨🏽‍🔧⚙️\n❄Vendas\n❄Instalações \n❄Reparos \n❄Manutenções \n📍 Taquara Rio de Janeiro\n📱 Atendimento Via Whatsapp",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": "2026-06-05",
+      "diasDesdeUltimo": 143,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 3,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:43:01.837Z",
+      "fonte": "@ deduzido do nome"
+    },
+    "tentativaIg": 2
+  },
+  "0x27e6584f72ee6f1f:0xddc448b1606e09ef": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://profissionaldoar.com.br/",
+      "ms": 5456
+    }
+  },
+  "0x997b6bead83897:0xfa3f102ec922e542": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://g.page/r/CULlIskuED_6EBE/review",
+      "ms": 844
+    }
+  },
+  "0xa26ebd918152ce4b:0x4a3305384fb50e12": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://salvatecclimatizacao.com.br/",
+      "ms": 1611
+    }
+  },
+  "0x9995632371d7ef:0x8c64ea02728ef702": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://sites.google.com/climariorefri.net/itaborai/in%C3%ADcio"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997ff323783231:0x55fde99eb1a8366d": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.ecoarrio.com.br/",
+      "ms": 2143
+    }
+  },
+  "0x997fbfdd06299b:0xe4e9221e98e5979a": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99855a673741a3:0xef4fe67a2070a10c": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://lojarcoldair.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://lojarcoldair.com.br/)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x46dd5a5b1072139d:0x1caef90cf99356e3": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.clauciorefrigeracao.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at http://www.clauciorefrigeracao)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x867a546c96df471d:0x556c1a701abf428e": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997dfc3c2b4a2f:0xab79e411a2562c93": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://marclimatizacao.com.br/",
+      "ms": 2152
+    }
+  },
+  "0x998328adc88ff5:0xe11e536d3c769eb6": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9991ced7956f9f:0x25a687866adf63e3": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.eletrofrigor.com.br/",
+      "ms": 2543
+    }
+  },
+  "0x996f13c7ff5fa9:0x7bc5ed7699e0622a": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://jcbarrosrefrigeracao.com.br/",
+      "ms": 670
+    }
+  },
+  "0x53ae6d95c5bf2a5:0x84d021033ce78481": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://bmsclimatizacao.com.br/",
+      "motivo": "fora do ar (net::ERR_BLOCKED_BY_CLIENT at http://bmsclimatizacao.com.br/)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd5f77e662293:0x7ccdf7db9b4e9e18": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x995d7e42d61c91:0x534c5a407ee358ab": {
+    "site": {
+      "tipo": "sem site",
+      "url": "http://wa.me/552127687417"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997d6038469251:0x3ff04e0bc3c3acfa": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": {
+      "usuario": "buscaroli_refrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/buscaroli_refrigeracao/",
+      "nomePerfil": "GB Buscaroli",
+      "seguidores": 1039,
+      "posts": 182,
+      "bio": "❄️ Ar-condicionado Split e Janela\n🏣   PMOC \n🔧 Instalação • Manutenção • Higienização\n⚡Qualidade, rapidez e preço justo\n📍Rio de Janeiro",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": "2026-10-04",
+      "diasDesdeUltimo": 22,
+      "postsUltimos90": 5,
+      "reelsNaGrade": 5,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:46:03.109Z",
+      "fonte": "@ deduzido do nome"
+    },
+    "tentativaIg": 2
+  },
+  "0x99666579fadc7f:0xdb1f6c8d749666f": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.splitrj.com.br/",
+      "ms": 1952
+    }
+  },
+  "0xa0f0dfb26e9b7cfb:0xd21c313763dd0b2a": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://bravotecrefrigeracao.com.br/",
+      "ms": 2752
+    }
+  },
+  "0x99712456d81729:0x6545c585a41cd8da": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/climatizacaosid"
+    },
+    "instagram": {
+      "usuario": "climatizacaosid",
+      "existe": true,
+      "url": "https://www.instagram.com/climatizacaosid/",
+      "nomePerfil": "Sidney Reis de Oliveira",
+      "seguidores": 1192,
+      "posts": 471,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": "2026-10-10",
+      "diasDesdeUltimo": 16,
+      "postsUltimos90": 2,
+      "reelsNaGrade": 8,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:46:09.068Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x997d000a762547:0x2d93dbe78ede9063": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": {
+      "usuario": "barcellosrefrigeracaorj",
+      "existe": true,
+      "url": "https://www.instagram.com/barcellosrefrigeracaorj/",
+      "nomePerfil": "Barcellos Refrigeração ❄",
+      "seguidores": 29,
+      "posts": 2,
+      "bio": "❄ Refrigeração em geral\n❄ Instalações\n❄ Manutenções\n❄ Reparos / Convencional / Inverter\n❄ Atendemos em todo o RJ\n📞  (21) 97252-8652 / (21) 970332799",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": "2022-02-02",
+      "diasDesdeUltimo": 1727,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 0,
+      "itensNaGrade": 2,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:46:31.987Z",
+      "fonte": "@ deduzido do nome"
+    },
+    "tentativaIg": 2
+  },
+  "0x49e9a53d67785d89:0xaaeb4fc22d264799": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/jcr_climatizacao_e_eletrica?igsh=MWF0ZXhrMGFodTAxcw=="
+    },
+    "instagram": {
+      "usuario": "jcr_climatizacao_e_eletrica",
+      "existe": true,
+      "url": "https://www.instagram.com/jcr_climatizacao_e_eletrica/",
+      "nomePerfil": "JCR Climatização e Elétrica.",
+      "seguidores": 135,
+      "posts": 50,
+      "bio": "horário de atendimento:8:00 as 17:00 horas",
+      "email": null,
+      "linkBio": "http://jcrclimatizacaoeletrica.negocio.site/",
+      "tipoLinkBio": "rede social/genérico",
+      "ultimoPost": "2024-11-25",
+      "diasDesdeUltimo": 700,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 0,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:46:37.977Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x995d26280c765d:0xb3d6b41fddaaf467": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/gslarcondicionado/"
+    },
+    "instagram": {
+      "usuario": "gslarcondicionado",
+      "existe": true,
+      "url": "https://www.instagram.com/gslarcondicionado/",
+      "nomePerfil": null,
+      "seguidores": null,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": null,
+      "diasDesdeUltimo": null,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 0,
+      "itensNaGrade": 0,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T23:22:24.208Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x9bd91892c30457:0x379a81cbb369660b": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/5521969775921"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0xac86a123fce2e329:0xe7285a7a5ec82887": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.facebook.com/share/1Cqfm5nTx7/"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99781fe60e0297:0xf44cac709a1532dd": {
+    "site": {
+      "tipo": "sem site",
+      "url": "http://www.instagram.com/split_ilha"
+    },
+    "instagram": {
+      "usuario": "split_ilha",
+      "existe": true,
+      "url": "https://www.instagram.com/split_ilha/",
+      "nomePerfil": "Paulo Rosendo - split ilha ar condicionado",
+      "seguidores": 8843,
+      "posts": 1237,
+      "bio": "❄️ Ambientes em espaços climatizados com conforto e eficiência\n🔧 Infra, instalação e manutenção no padrão de fábrica \n📲 Faça seu orçam no WhatsApp ↓",
+      "email": null,
+      "linkBio": "https://wa.me/5521985514577",
+      "tipoLinkBio": "WhatsApp direto",
+      "ultimoPost": "2026-10-04",
+      "diasDesdeUltimo": 22,
+      "postsUltimos90": 9,
+      "reelsNaGrade": 7,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:51:25.746Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x99632dc39ac559:0xe2e7d00a3dd7ba68": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://jdarefrigeracaoeletrica.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://jdarefrigeracaoeletric)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0xa917a2ea0f012aa1:0x588e96dc0be25140": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://mobrefrigeracao.wixsite.com/mobr/servicos",
+      "motivo": "construtor grátis (mobrefrigeracao.wixsite.com)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99893e8e707239:0x5bb4b087442c622c": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://maisrefrigeracao.com.br/",
+      "ms": 2312
+    }
+  },
+  "0x997b5a00b88e31:0x97972bec49b03fed": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99780f152ada91:0xaa4224690119fd0d": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bdd4c9059f90d:0x88f36bbc38806e0a": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x691885a483194e2b:0x90af97e859d66cfc": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://beacons.ai/riomaisfrio"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9be1b001cb5b9b:0x8d1e0c0cd56e5da2": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": {
+      "usuario": "instalarjinstalarj",
+      "existe": true,
+      "url": "https://www.instagram.com/instalarjinstalarj/",
+      "nomePerfil": null,
+      "seguidores": 913,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-08-03",
+      "diasDesdeUltimo": 84,
+      "postsUltimos90": null,
+      "reelsNaGrade": 2,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T23:22:36.046Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9bdd025227e22f:0x6d7efe0f5dbc1be1": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/portofriorj/"
+    },
+    "instagram": {
+      "usuario": "portofriorj",
+      "existe": true,
+      "url": "https://www.instagram.com/portofriorj/",
+      "nomePerfil": null,
+      "seguidores": 457,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-23",
+      "diasDesdeUltimo": 3,
+      "postsUltimos90": null,
+      "reelsNaGrade": 8,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T23:22:45.999Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x997de261c768e5:0x9c55db9b03d0ed8f": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://www.solidusclimatizacao.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://www.solidusclimatizaca)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x66986a9f1186823d:0xcb329c0907b81ed3": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997db32647be0b:0x8ecac24a8af692ad": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997b8c447c1953:0x523cb62654487fb7": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997f8301bb603f:0x73a4575a8e0c94cc": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://centraldoarcondicionadorj.com.br/",
+      "ms": 1809
+    }
+  },
+  "0x9be3124f6d817d:0xe3aeb6649c6ac303": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/shoppingriorefrigeracao/"
+    },
+    "instagram": {
+      "usuario": "shoppingriorefrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/shoppingriorefrigeracao/",
+      "nomePerfil": null,
+      "seguidores": 2031,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-17",
+      "diasDesdeUltimo": 9,
+      "postsUltimos90": null,
+      "reelsNaGrade": 3,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:52:04.067Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9bdf5a37269361:0xb3604003c93e14ac": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://mrsolucoes.jrmidias.com.br/servicos-de-ar-condicionado/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://mrsolucoes.jrmidias.co)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9967a8f457274d:0xb7fca69e8f1b8624": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://inovar-ar-condicionado-1.rds.land/inovar-ar-condicionado",
+      "ms": 1099
+    }
+  },
+  "0x9bdb6769871535:0x57a8aa878ab149dc": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://refrimaxrio.com.br/",
+      "ms": 759
+    }
+  },
+  "0x9991138f7a2b75:0xfbb04e911532a14b": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://business.google.com/v/_/02028697156502337728/2307/_"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x156190d50e09117:0x195f2fa7d8681694": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996309c941e4af:0xfc379fcf30df2e5b": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://rjorefrigeracao.com.br/",
+      "ms": 1252
+    }
+  },
+  "0x6edd679e129d3d7:0x6f6480dd338c93a2": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://maximofrioclimatizacao.com.br/",
+      "ms": 1897
+    }
+  },
+  "0x4fe420a7c4ad1395:0xc7a24670566c9f49": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.facebook.com/leorefrigeracaoilha?mibextid=ZbWKwL"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x6bc7df58c517414b:0x54ad803d1780f84": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://wlclimatizacao.com.br/",
+      "ms": 2239
+    }
+  },
+  "0x9be149cb6bd283:0x6ff8971620ebb7cf": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://hcmrefrigeracoes.lovable.app/",
+      "ms": 1763
+    }
+  },
+  "0x99917235584da7:0xf9a8c1d217c7b8da": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://nsarefrigeracao.net.br/",
+      "ms": 1443
+    }
+  },
+  "0x9bd9bbdcd1bcf3:0xc2bec1cef874c07b": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.climatrix.com.br/",
+      "ms": 1249
+    }
+  },
+  "0x999b483f656049:0x17d3889c42087b4f": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.paesservicos.com/",
+      "motivo": "fora do ar (net::ERR_BLOCKED_BY_CLIENT at http://www.paesservicos.com/)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd9c8ce0f23c5:0xd7f52d3597a05823": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://sites.google.com/view/pc-ar-condicionado-e-eltrica/"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99ed6e98d8c187:0xa50b5ccf67041fe4": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://pdclimatizacao.com.br/",
+      "motivo": "fora do ar (net::ERR_BLOCKED_BY_CLIENT at http://pdclimatizacao.com.br/)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd747dcd6dd19:0x662384c4a88e2e38": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.icefreerefrigeracao.com.br/",
+      "ms": 2970
+    }
+  },
+  "0x997b8119b68df5:0x63041ef840d1bdbf": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://climaalfa.com/",
+      "ms": 973
+    }
+  },
+  "0x997060d9b7be09:0xafafc8830c899d33": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd778367f10ed:0x29dc82aea861d0cd": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997f530ec161cd:0x56720aa6718ed591": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/5521973002290?text=Vim%20do%20Google%20meu%20neg%C3%B3cio%20e%20gostaria%20de%20um%20or%C3%A7amento."
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9965f2107b8ff7:0x284308da2d9cd299": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99851d9ebc2d57:0xac3ec230c3c84d03": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/arjhmsservico/"
+    },
+    "instagram": {
+      "usuario": "arjhmsservico",
+      "existe": true,
+      "url": "https://www.instagram.com/arjhmsservico/",
+      "nomePerfil": null,
+      "seguidores": 493,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-04-27",
+      "diasDesdeUltimo": 182,
+      "postsUltimos90": null,
+      "reelsNaGrade": 6,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:54:11.491Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9983798e124319:0x943fa5553542123": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/refrigeracaoirmaoslessa?igsh=NjNiMDhsOWJ1MjM3"
+    },
+    "instagram": {
+      "usuario": "refrigeracaoirmaoslessa",
+      "existe": true,
+      "url": "https://www.instagram.com/refrigeracaoirmaoslessa/",
+      "nomePerfil": null,
+      "seguidores": 1341,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-02",
+      "diasDesdeUltimo": 24,
+      "postsUltimos90": null,
+      "reelsNaGrade": 10,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:54:17.358Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x2a385f6773731689:0xa2a1e42bab7c207d": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://magnaclimatizacao.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://magnaclimatizacao.com.)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997d7211cf10e3:0x82c9b0e93c94d194": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://olive-squid-328981.hostingersite.com/",
+      "ms": 361
+    }
+  },
+  "0x999b5ef2b93f57:0x418324170a1235f6": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x6be8bf1a9377d9b7:0x2fc9d7ca70294ab2": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://www.ventarrefrigeracao.com.br/",
+      "motivo": "fora do ar (net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.venta)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99706f0f97ae47:0xfbe55e8a5ad75b37": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x995d822fb7fa91:0xdfd92d2bb0d12167": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/refrigeracaocomendador/"
+    },
+    "instagram": {
+      "usuario": "refrigeracaocomendador",
+      "existe": true,
+      "url": "https://www.instagram.com/refrigeracaocomendador/",
+      "nomePerfil": null,
+      "seguidores": null,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": null,
+      "diasDesdeUltimo": null,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 0,
+      "itensNaGrade": 0,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:55:34.215Z",
+      "fonte": "Maps"
+    }
+  },
+  "0xf164dfcbe9ca041:0xbe38d6b9b03d09f0": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/oseusplit/?hl=pt-br"
+    },
+    "instagram": {
+      "usuario": "oseusplit",
+      "existe": true,
+      "url": "https://www.instagram.com/oseusplit/",
+      "nomePerfil": null,
+      "seguidores": 1217,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-20",
+      "diasDesdeUltimo": 6,
+      "postsUltimos90": null,
+      "reelsNaGrade": 7,
+      "itensNaGrade": 11,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:55:40.059Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x999a97d522eac3:0x749c86c424fa3b2c": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.bomarclimatizacao.com.br/",
+      "ms": 2666
+    }
+  },
+  "0x2ae30a2f4f96474b:0xa1fbd0337a460e3": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://shre.ink/buNb",
+      "ms": 1767
+    }
+  },
+  "0x990b7eaecb7f2d:0xaf0349532225a75c": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://www.betelrefrigeracao.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://www.betelrefrigeracao.)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x89203a7d19ca7b9d:0x8bf0723cf9ea0d57": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.coolersystem.com.br/",
+      "ms": 691
+    }
+  },
+  "0x9be38356e570cb:0x1765eb28344f2406": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://altitudeclimatizacao.com.br/",
+      "ms": 1429
+    }
+  },
+  "0x996760ec07bb25:0xc9f75d0ade1336ef": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/ricardo_starfrio?igsh=MXJ5anI0bjliNmVlYw=="
+    },
+    "instagram": {
+      "usuario": "ricardo_starfrio",
+      "existe": true,
+      "url": "https://www.instagram.com/ricardo_starfrio/",
+      "nomePerfil": null,
+      "seguidores": 1499,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-08-04",
+      "diasDesdeUltimo": 83,
+      "postsUltimos90": null,
+      "reelsNaGrade": 10,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:56:06.899Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x996652f863de49:0x5a10230cffaebc73": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.difusor.com.br/",
+      "ms": 4673
+    }
+  },
+  "0x9be3a1459b46cd:0x8398a5c930d24e36": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://imperiodageladeira.com.br/",
+      "ms": 2711
+    }
+  },
+  "0xa54f89980bf09bf3:0x9548dbe3ddb6cbad": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://dmrclimatizacao.com.br/",
+      "ms": 585
+    }
+  },
+  "0x997952e8cb68ff:0x7edb1a228d489998": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://instagram.com/aquinoarcondicionado/"
+    },
+    "instagram": {
+      "usuario": "aquinoarcondicionado",
+      "existe": true,
+      "url": "https://www.instagram.com/aquinoarcondicionado/",
+      "nomePerfil": null,
+      "seguidores": 231,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-05-13",
+      "diasDesdeUltimo": 166,
+      "postsUltimos90": null,
+      "reelsNaGrade": 12,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:56:12.948Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x997b64989dbd9f:0xfe00bdc900d63e02": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99774043f607dd:0xfd43513676a2646a": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9be4073b540001:0xb1c0fa7711f4faae": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.institutobrasiloffshore.com.br/",
+      "ms": 2033
+    }
+  },
+  "0x997758a15f114f:0x26f3dcf9e44d0723": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://ajarefrigeracao.com.br/?utm_source=gmt&utm_medium=ficha",
+      "ms": 288
+    }
+  },
+  "0x9977db514668c1:0x5c87a98b15f8e5fd": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.facebook.com/shalomeletricaerefrigeracao/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_transition=0&show_community_review_changes=0&show_follower_visibility_disclosure=0"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9991c218ea672d:0xd83052e299eef766": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997efb7c15026b:0xf75e58d558701206": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://brasilrefrigeracao.com/",
+      "ms": 2184
+    }
+  },
+  "0x999be5890dbd73:0xb5535f48bba4c9cc": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/correa.climatizacao.rj/?hl=pt-br"
+    },
+    "instagram": {
+      "usuario": "correa.climatizacao.rj",
+      "existe": true,
+      "url": "https://www.instagram.com/correa.climatizacao.rj/",
+      "nomePerfil": null,
+      "seguidores": 858,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-09-26",
+      "diasDesdeUltimo": 30,
+      "postsUltimos90": null,
+      "reelsNaGrade": 11,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:56:41.219Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x22e3c2f0d4fee5f5:0x88611ae2f59a92d4": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.purificarsolucoes.com.br/",
+      "ms": 3872
+    }
+  },
+  "0x99854376ae8499:0x64fc8df21107493": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://www.greenjobsolucoes.com.br/",
+      "motivo": "site responde HTTP 403",
+      "ms": 800
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9971b5f4b7f6b3:0xadb61f82e509b22a": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997e75722192ed:0xa16b61acaab7df68": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.garraotec.com.br/",
+      "ms": 5922
+    }
+  },
+  "0x9991b5ca77430d:0x22ba4b3da5c47bc6": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/message/AZEX4M6EBWNHH1"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x203a70ca30223d2f:0x61a15992807405c2": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.telcclimatizacao.com.br/",
+      "ms": 1127
+    }
+  },
+  "0x99631bcabdbf63:0xcac7e37b7e7d0b1d": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bdb1a18c7bbab:0xb719ee4646b1af2": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.planotecnico.com.br/",
+      "ms": 1193
+    }
+  },
+  "0x99713c06e5438f:0x2e0abf4f9002699": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://bellarcold.com.br/",
+      "ms": 1649
+    }
+  },
+  "0x999a781f3b8f01:0xac6ce01d957b3b50": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd826e89c9743:0xcda4a4177825183e": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.mrclima.com.br/",
+      "ms": 1610
+    }
+  },
+  "0x99859adf3ebc7b:0x2f3754aa5df536ea": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.airhouserefrigeracao.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at http://www.airhouserefrigeraca)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997f4eef921155:0xf18696aa953f9e3e": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99839f435dd297:0xc520aee6d611636e": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0xa0ea0ea8c48e94ab:0xb12f4e6f2bc23770": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.temperaturacertta.com.br/",
+      "ms": 1312
+    }
+  },
+  "0x9963f1be5ea107:0xe552e624ad2ec442": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.ofcfrio.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at http://www.ofcfrio.com.br/)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x49f834f6c7d2521b:0x2d1f4d44c52a78e2": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.facebook.com/Refrigeracaonexus"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99c1022569c5b9:0xfd1f7d967f928754": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bdf15dc281e77:0x1276ba5f4d4268ee": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/barcelos.climatizacao/?next=/"
+    },
+    "instagram": {
+      "usuario": "barcelos.climatizacao",
+      "existe": true,
+      "url": "https://www.instagram.com/barcelos.climatizacao/",
+      "nomePerfil": null,
+      "seguidores": 2792,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-08-27",
+      "diasDesdeUltimo": 60,
+      "postsUltimos90": null,
+      "reelsNaGrade": 8,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T21:59:59.527Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x999b7404dc29ef:0xa89678f62b359047": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.facebook.com/profile.php?id=100068059462412&mibextid=ZbWKwL"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9991563c256d0f:0x471cf012c98dfe2e": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/helpsplit?igsh=enZ6NjNnaTd4cHF3"
+    },
+    "instagram": {
+      "usuario": "helpsplit",
+      "existe": true,
+      "url": "https://www.instagram.com/helpsplit/",
+      "nomePerfil": null,
+      "seguidores": 1403,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-08-31",
+      "diasDesdeUltimo": 56,
+      "postsUltimos90": null,
+      "reelsNaGrade": 6,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:00:29.272Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x84f5a06b1d56ae2f:0xa5f7c1127ce083b1": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://ruscyrefrigeracao.com.br/",
+      "ms": 1492
+    }
+  },
+  "0x99836bb2e5e1e3:0xfdcdd18647a298ed": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9965dc142b88c1:0xbbf68ee6d165cfe5": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99659767a748e1:0x62afdeb0c514bb30": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://linktr.ee/friocentrorj"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99615922aab31b:0x7ba1d446796d7d13": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://merrefrigeracao.com.br/",
+      "ms": 5782
+    }
+  },
+  "0x2b3b2a5fbbe4762b:0xa6b0acd35e40e27": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://climatizacaosmart.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://climatizacaosmart.com.)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x995ddd33785359:0x7b51ca0cd6926122": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x998db7659323a3:0xffcc7b0be8011923": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/5521970927752"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x62713f23a2b117af:0x39629ed4113fa1b9": {
+    "site": {
+      "tipo": "sem site",
+      "url": "http://wa.me/dr.geladinho"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9989569c347175:0xa0bae5513a65f56e": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9979fcdacaef8b:0x57fb1b4ddead45ae": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://www.jmrlrefrigeracao.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://www.jmrlrefrigeracao.c)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x999092dc72af5f:0xe0fd3d62379dd0e": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://xn--stempeas-x0a8i.com/",
+      "motivo": "fora do ar (net::ERR_BLOCKED_BY_CLIENT at http://xn--stempeas-x0a8i.com/)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x4e522a4821ec3dd5:0xd4c2ff7a5bca5ab4": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99596949b327fb:0xe5d6c2c5a61fe708": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9967941ea6e8b3:0x61a6dbee416cb6ba": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9971c3e6464f79:0x2299818207371a39": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://seletoclima.com.br/",
+      "ms": 430
+    }
+  },
+  "0x9989cf2866cefd:0xea05ff7c4f6fb7e": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/icebox.refrigeracao?igsh=cWNwdWxjdjc3M2Ns"
+    },
+    "instagram": {
+      "usuario": "icebox.refrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/icebox.refrigeracao/",
+      "nomePerfil": null,
+      "seguidores": 350,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-01-16",
+      "diasDesdeUltimo": 283,
+      "postsUltimos90": null,
+      "reelsNaGrade": 5,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:03:48.857Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9bd9df0951179f:0x92a6abdb0ec2b62b": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996448a21653ef:0x9abb405a395df989": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9983dfbc3a0b73:0xd4cee7d40eb848f2": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/poloarrj/"
+    },
+    "instagram": {
+      "usuario": "poloarrj",
+      "existe": true,
+      "url": "https://www.instagram.com/poloarrj/",
+      "nomePerfil": null,
+      "seguidores": 2781,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-23",
+      "diasDesdeUltimo": 3,
+      "postsUltimos90": null,
+      "reelsNaGrade": 2,
+      "itensNaGrade": 11,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:04:40.307Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9be312a14ae4ad:0x828de7948f849e1b": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://sageletricaclima.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://sageletricaclima.com.b)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x999b5862ee1ee9:0xe608dd055dafcba5": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/fsc.servicos.refrigeracao?igsh=MXFzOHk0ZjNnaHZodw=="
+    },
+    "instagram": {
+      "usuario": "fsc.servicos.refrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/fsc.servicos.refrigeracao/",
+      "nomePerfil": null,
+      "seguidores": 171,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-08-05",
+      "diasDesdeUltimo": 82,
+      "postsUltimos90": null,
+      "reelsNaGrade": 6,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:05:08.372Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x998f4515fceba7:0x4036e490fc386845": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.roblle.com.br/",
+      "motivo": "site responde HTTP 500",
+      "ms": 1259
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997d631b096d0f:0xf15ce919cf7a0e24": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://climarj.com.br/",
+      "ms": 1155
+    }
+  },
+  "0x99ed25868ce5b1:0x7fb7b814b9a9cc6c": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9965f4b3ac925b:0xf6668296c5c86af6": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bdb0439c18abb:0xa3ff91d15291b7ae": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.climatizzebarra.com.br/",
+      "ms": 5403
+    }
+  },
+  "0x9bd9bbc9a95087:0x860ff8ab4c96104e": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://api.whatsapp.com/send?phone=552138251566"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99bff12820c4d9:0x3f7f4f9f461a90cb": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://brunoar.com.br/",
+      "ms": 415
+    }
+  },
+  "0x99f359539b1fc7:0x1a6c8580542c0ff1": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9983eb204446f3:0x16b6d35877636b45": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.areambiente.com.br/",
+      "ms": 2670
+    }
+  },
+  "0x999af42be1773d:0xbc8fb567e01c3ab0": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997f4965bfa40f:0x30d9aff6a4b0a307": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.moraisassistenciatecnica.com/",
+      "ms": 1462
+    }
+  },
+  "0x997fac0ea7b8b1:0xe63dc8c3b3291f7": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.engercold.com.br/",
+      "ms": 3378
+    }
+  },
+  "0x999b05c0ed228d:0x7f881576a0c5e451": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.brsarcondicionado.com.br/",
+      "ms": 2695
+    }
+  },
+  "0x99c10c589ce1a9:0xc201bbf98ce8a8c2": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.nuclearrefrigeracao.com/",
+      "ms": 3312
+    }
+  },
+  "0x9be1c0532bd53f:0x11769c19aef046d5": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/friolarrj/"
+    },
+    "instagram": {
+      "usuario": "friolarrj",
+      "existe": true,
+      "url": "https://www.instagram.com/friolarrj/",
+      "nomePerfil": null,
+      "seguidores": 3012,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-09",
+      "diasDesdeUltimo": 17,
+      "postsUltimos90": null,
+      "reelsNaGrade": 5,
+      "itensNaGrade": 10,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:06:43.710Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9977d79b5e1959:0x22926a4f63e34ed": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://intelclim.com.br/",
+      "ms": 3288
+    }
+  },
+  "0x9bdd9254fbacb5:0x7a532a223f2cdf28": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://refri10.com.br/",
+      "ms": 1286
+    }
+  },
+  "0x99892a05a63cfd:0x6a9f0619fe693c95": {
+    "site": {
+      "tipo": "sem site",
+      "url": "http://wa.me/5521964476805"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9be1e7d2363f25:0x3c4a332c48680672": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://edgeladeiramaquinadelavarecia.shop/",
+      "motivo": "fora do ar (net::ERR_CERT_AUTHORITY_INVALID at https://edgeladeiramaquin)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997bfde53c3b89:0xf1dae59f849521a5": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://omsservico4.carrd.co/",
+      "motivo": "construtor grátis (omsservico4.carrd.co)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bf10af8d288ab:0x52a0dc21179e4333": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99831cda2a81e5:0xf9f6a8d96efdedd4": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://collshp.com/loja1001achados",
+      "ms": 2499
+    }
+  },
+  "0x9983c393f60377:0x4a4fd90a0963fef8": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.amigosdoclima.com.br/",
+      "ms": 908
+    }
+  },
+  "0x997d02c764b3d7:0xdbd2c4c810315dd1": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://twsclimatizacao.com/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://twsclimatizacao.com/)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99779d9a91c9eb:0x85ed7b85d58a234d": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://www.tonilharefrigeracao.com.br/",
+      "motivo": "lento (6.3 s até carregar)",
+      "ms": 6320
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997d605e8a62c1:0x228d483f4495f6b3": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/ronaldobraga.refrigeracao/"
+    },
+    "instagram": {
+      "usuario": "ronaldobraga.refrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/ronaldobraga.refrigeracao/",
+      "nomePerfil": null,
+      "seguidores": 133,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-01-15",
+      "diasDesdeUltimo": 284,
+      "postsUltimos90": null,
+      "reelsNaGrade": 2,
+      "itensNaGrade": 9,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:08:20.443Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9983a276d9af47:0xd501fd645311242d": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99913c001620e9:0x9b1dc3d4deddc974": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://xn--qcr-climatizao-2hb7d.yolasite.com/",
+      "motivo": "site responde HTTP 403",
+      "ms": 408
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x2bfe4216874586e1:0x5bcf1a4a8ce4dadb": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://reparofix.com/",
+      "ms": 808
+    }
+  },
+  "0x997fac3c798ab9:0x15d6c044c5b4c21e": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996782ec671f95:0x7b99bb653f899f52": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://refrigeracao-eletricaverao.busisness.site/",
+      "motivo": "não adaptado a telemóvel (sem meta viewport)",
+      "ms": 653
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9979f20d02c985:0x66ac83ac37b016c7": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://vsprecuperadora.wixsite.com/vsprecuperadora",
+      "motivo": "construtor grátis (vsprecuperadora.wixsite.com)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9963fffb356cb5:0x4c09b0a3eedb0492": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://cool-buddy-air.lovable.app/",
+      "ms": 3110
+    }
+  },
+  "0x9985c37d1a3873:0xd6152a1ddd3c15e8": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd9b96abff0c7:0xe4e6a98ca5b622f0": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://instagram.com/fllex.servicos?igshid=YmMyMTA2M2Y="
+    },
+    "instagram": {
+      "usuario": "fllex.servicos",
+      "existe": true,
+      "url": "https://www.instagram.com/fllex.servicos/",
+      "nomePerfil": null,
+      "seguidores": 930,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-24",
+      "diasDesdeUltimo": 2,
+      "postsUltimos90": null,
+      "reelsNaGrade": 12,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:09:56.285Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9be17b09bd875b:0x4553cda0495dbd4f": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/jlrefrigeracao/"
+    },
+    "instagram": {
+      "usuario": "jlrefrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/jlrefrigeracao/",
+      "nomePerfil": null,
+      "seguidores": 2607,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-07",
+      "diasDesdeUltimo": 19,
+      "postsUltimos90": null,
+      "reelsNaGrade": 4,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:10:01.858Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x997fa3ee2c3be7:0x37d83df90c606921": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://tecservicerj.com.br/",
+      "ms": 4388
+    }
+  },
+  "0x997dcde5123571:0x6130f62d747f8785": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://snowvolts.com.br/",
+      "ms": 353
+    }
+  },
+  "0x9bd9c8b61569e3:0x9d0a5b2c9e49d5c2": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://direfrigeracao.com.br/",
+      "motivo": "site responde HTTP 403",
+      "ms": 466
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x998facf65f02e5:0xf89830fbea4cc66": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9965871e812563:0xdba9790a6df2be02": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9be1b079315c71:0xf108e4aa8621e327": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99851261efa87f:0xd5446024b3ded139": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.institutobrasiloffshore.com.br/",
+      "ms": 1699
+    }
+  },
+  "0x9969003a7e3735:0x2fcb8b2343d7f249": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/polodarefrigeracao?igsh=MWF6MDlrNm54enRmag=="
+    },
+    "instagram": {
+      "usuario": "polodarefrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/polodarefrigeracao/",
+      "nomePerfil": null,
+      "seguidores": 225,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": "https://polodarefrigeracao.com.br/",
+      "tipoLinkBio": "site próprio",
+      "ultimoPost": "2026-09-24",
+      "diasDesdeUltimo": 32,
+      "postsUltimos90": null,
+      "reelsNaGrade": 9,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:11:38.926Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    },
+    "siteBio": {
+      "tipo": "profissional",
+      "url": "https://polodarefrigeracao.com.br/",
+      "ms": 5296
+    }
+  },
+  "0x9966cb1851e38f:0x5f77bb590434e0ce": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://instalacaodesplitrj.com.br/",
+      "ms": 2189
+    }
+  },
+  "0x995dd79d2a001b:0xc8c86fcbbd927453": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://sites.google.com/view/raffas-refrigeracao/in%C3%ADcio"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bdd3aef457767:0xf90d480c6c0cc04d": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://instagram.com/danfenat?igshid=MzRlODBiNWFlZA=="
+    },
+    "instagram": {
+      "usuario": "danfenat",
+      "existe": true,
+      "url": "https://www.instagram.com/danfenat/",
+      "nomePerfil": null,
+      "seguidores": 783,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-07-10",
+      "diasDesdeUltimo": 108,
+      "postsUltimos90": null,
+      "reelsNaGrade": 12,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:12:07.217Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9971b578f0c1bf:0x48889a169e6ca68f": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://instagram.com/climtop_arcondicionado?igshid=1ijlobz8exim5"
+    },
+    "instagram": {
+      "usuario": "climtop_arcondicionado",
+      "existe": true,
+      "url": "https://www.instagram.com/climtop_arcondicionado/",
+      "nomePerfil": null,
+      "seguidores": null,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": null,
+      "diasDesdeUltimo": null,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 0,
+      "itensNaGrade": 0,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:12:12.275Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x996fe1aec02895:0x8bbedf42f0893c8a": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://artecrefrigeracao.my.canva.site/"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9be4f16da4696d:0xbb3cdee3d440a80": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://arcondicionadogelar.com.br/",
+      "ms": 1434
+    }
+  },
+  "0x440b40907286b32f:0xfdf614a28a3dde88": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x7d83805d01d4c1d:0x493d6892db78f33d": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/5521973494222eletricateksolucoes"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x4111d872a42b4f69:0x6a8f540ab53b36bd": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://wjeletricaerefrigeracao.vercel.app/",
+      "motivo": "construtor grátis (wjeletricaerefrigeracao.vercel.app)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd8fa1c1a80e9:0xcd1622e469edabf8": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://excellenceclimatizacao.com.br/",
+      "motivo": "não adaptado a telemóvel (sem meta viewport)",
+      "ms": 633
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd590e7e990a7:0xfabb18ff4e4eed1f": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/ffclimafrio?igsh=MXg0ejB2cGwzcWdlbA=="
+    },
+    "instagram": {
+      "usuario": "ffclimafrio",
+      "existe": true,
+      "url": "https://www.instagram.com/ffclimafrio/",
+      "nomePerfil": null,
+      "seguidores": 1524,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-09-16",
+      "diasDesdeUltimo": 40,
+      "postsUltimos90": null,
+      "reelsNaGrade": 10,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:13:02.835Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9977e04594378f:0xf2e3397f999bdac2": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd54159e3f3bd:0x7f79621413fe3365": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x8e2aa586e6468035:0x2fb242bddf8424dc": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://linktr.ee/refrimax021"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99630f553d409d:0xaf04d05d46179d0c": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bdd0b349eee53:0x98b88795d906cf33": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/techfriosolucoes/"
+    },
+    "instagram": {
+      "usuario": "techfriosolucoes",
+      "existe": true,
+      "url": "https://www.instagram.com/techfriosolucoes/",
+      "nomePerfil": null,
+      "seguidores": 735,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-24",
+      "diasDesdeUltimo": 2,
+      "postsUltimos90": null,
+      "reelsNaGrade": 1,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:14:21.520Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x997f4b3072d341:0xe8419eb7ee5eaff5": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9965103c1e8e93:0x5691b4ac76c0c9cd": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.fricomrefrigeracao.com.br/",
+      "ms": 3967
+    }
+  },
+  "0xa8cb583325f28a6d:0xf9569f0a852c31e4": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://smartfrigsolucoes.com/",
+      "ms": 1372
+    }
+  },
+  "0x998fd6b3bad64b:0xdb4836aadfae4aa0": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x6c0046130d5c58bb:0xe3a22089604478b8": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://coldtecrj.com.br/",
+      "ms": 231
+    }
+  },
+  "0x2b7f75dac45e5c83:0x663f807c6f542995": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://arbarcondicionador.wixsite.com/arbarcondicionado",
+      "motivo": "construtor grátis (arbarcondicionador.wixsite.com)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997beb31f10c03:0x5da07ebb306d806d": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.cpmclimatizacao.com.br/",
+      "ms": 448
+    }
+  },
+  "0x7e0473b500309f9:0x5715114401743028": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/climatizailha/"
+    },
+    "instagram": {
+      "usuario": "climatizailha",
+      "existe": true,
+      "url": "https://www.instagram.com/climatizailha/",
+      "nomePerfil": null,
+      "seguidores": 3539,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-07-22",
+      "diasDesdeUltimo": 96,
+      "postsUltimos90": null,
+      "reelsNaGrade": 0,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:15:33.663Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x999b7c2ed5d231:0x62a3cc61e127ba0c": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.nrcrespo.com.br/",
+      "motivo": "fora do ar (net::ERR_BLOCKED_BY_CLIENT at http://www.nrcrespo.com.br/)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99665330d209b9:0x763be74071a52d76": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.facebook.com/vitoriarefrig/"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99a3a1889861ed:0xc630aaae04678bd9": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x43c74e8e91be3c3f:0xd01cf5afe7ca16e9": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9987e512ee5c15:0xbd52cf9968fa170c": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/r3tec?igsh=enNvcmJ4N2w2Mnd4"
+    },
+    "instagram": {
+      "usuario": "r3tec",
+      "existe": true,
+      "url": "https://www.instagram.com/r3tec/",
+      "nomePerfil": null,
+      "seguidores": 210,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-24",
+      "diasDesdeUltimo": 2,
+      "postsUltimos90": null,
+      "reelsNaGrade": 11,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:16:48.723Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x2c777c12560932df:0x3187bada80a89696": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://imperiodofrio2000.com.br/principal/",
+      "motivo": "lento (7.7 s até carregar)",
+      "ms": 7685
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99909144a6fb39:0xcf7846298754d4f7": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996f3b2a0a584b:0xdd667fa8155b840d": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.m3mrefrigeracao.com.br/",
+      "ms": 475
+    }
+  },
+  "0x80b9114e9a90befb:0x1f872fa80a33ae9c": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.araujoclimatizacao.com.br/",
+      "ms": 1479
+    }
+  },
+  "0x997b2b21c23cb9:0x2df056f82ab9634b": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://rcrefrigeracaovend.wixsite.com/my-site-3?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnT9fCwYU3Z97a5df952KKVu4fXlUz5_oc-UGSNPq-YeqzFyV_dJEIpViCAjs_aem_45d6OilQGbMnEZZ_zf3wFQ",
+      "motivo": "construtor grátis (rcrefrigeracaovend.wixsite.com)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996537510e22d5:0xb81e629045c3a20": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://dmrefrigeracao.com/",
+      "ms": 1271
+    }
+  },
+  "0x9961c60ccbd1e7:0x19a06084b91934a3": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/capelaref?igsh=eGdxeHIwbzZ0bnF4"
+    },
+    "instagram": {
+      "usuario": "capelaref",
+      "existe": true,
+      "url": "https://www.instagram.com/capelaref/",
+      "nomePerfil": null,
+      "seguidores": 30,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-14",
+      "diasDesdeUltimo": 12,
+      "postsUltimos90": null,
+      "reelsNaGrade": 2,
+      "itensNaGrade": 11,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:18:01.531Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x995d38bb6135a7:0xb405b47f124c2446": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://gtemprefrigeracao.com/",
+      "motivo": "fora do ar (net::ERR_BLOCKED_BY_CLIENT at https://gtemprefrigeracao.com/)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0xa2e3fa9fb6b9f0a9:0xb0e1f0f2ac492600": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996f43066ec41d:0x9a3b0dec8fad0fb6": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.facebook.com/overclimatizacao/"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996f6387c40651:0x130872c0df426c76": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9be1b833e07a8d:0x44a6cbb91d18f69d": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://taggo.one/luizar",
+      "ms": 1551
+    }
+  },
+  "0x9be15e5f50bef5:0x5d7343f9c918826f": {
+    "site": {
+      "tipo": "sem site",
+      "url": "http://linktr.ee/cryogenar"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997b30664f508b:0x5d4cb5c9d0b86a21": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://xn--lbxclimatizao-7eb3d.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://xn--lbxclimatizao-7eb3)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9973920ba19283:0xbc60eca80baaa912": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://sites.google.com/view/eletricista-santa-cruz-daserra/p%C3%A1gina-inicial"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9984a262ef52f7:0x731b7230de032fc": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://grlrefrigeracao.com.br/",
+      "ms": 1644
+    }
+  },
+  "0x66ce1968661051:0xeb2965fcc908248b": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/5521990096921"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997f0c3a7505d1:0x61f454e4316e42e8": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9971a96b4f658b:0xa183bb8257633ab4": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9963048c1844ed:0x52dc161a4473c419": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x64ad8462eb3da0cb:0xaa0869cee1f09fb3": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.thermofrioclimatizacao.com.br/",
+      "motivo": "lento (9.9 s até carregar)",
+      "ms": 9859
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x45eefd7b300a965:0x58d3849cba42abb3": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://dinizclimatizacaorj.com.br/",
+      "ms": 4251
+    }
+  },
+  "0x99ed91234d83bd:0xc217e213e5d51677": {
+    "site": {
+      "tipo": "sem site",
+      "url": "http://www.instagram.com/consertos_refrigerac/"
+    },
+    "instagram": {
+      "usuario": "consertos_refrigerac",
+      "existe": true,
+      "url": "https://www.instagram.com/consertos_refrigerac/",
+      "nomePerfil": null,
+      "seguidores": null,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": null,
+      "diasDesdeUltimo": null,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 0,
+      "itensNaGrade": 0,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:21:51.205Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x997fef25d89f4b:0x32e38e47df522d5b": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/igorsilva.ar?igsh=ZjYzcHBqcDExbTdo"
+    },
+    "instagram": {
+      "usuario": "igorsilva.ar",
+      "existe": true,
+      "url": "https://www.instagram.com/igorsilva.ar/",
+      "nomePerfil": null,
+      "seguidores": 1248,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-23",
+      "diasDesdeUltimo": 3,
+      "postsUltimos90": null,
+      "reelsNaGrade": 0,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:21:56.602Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x836d7ccdcb50e1e7:0x61add862baf5f9a2": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997e0d9058e6d9:0xea706d375d683f4a": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.fujitsu-general.com/br/partner/assistencias-list.html",
+      "ms": 940
+    }
+  },
+  "0x6b71bca12350162f:0xe21efa2916dea2f1": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/jvrefrigeracao2026"
+    },
+    "instagram": {
+      "usuario": "jvrefrigeracao2026",
+      "existe": true,
+      "url": "https://www.instagram.com/jvrefrigeracao2026/",
+      "nomePerfil": null,
+      "seguidores": 104,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-07-09",
+      "diasDesdeUltimo": 109,
+      "postsUltimos90": null,
+      "reelsNaGrade": 2,
+      "itensNaGrade": 7,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:22:23.458Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9963cda5f675a1:0x7fb818c1b5cb7979": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://pdjclimatizacao.com.br/",
+      "ms": 1758
+    }
+  },
+  "0x6cacaf70cddd1d5:0x408dcbbbe317ccc0": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://fixartec.com.br/",
+      "ms": 1531
+    }
+  },
+  "0xaf529bc075b4fc65:0x5dae39de9c3b764b": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://contate.me/caninderefrigeracaoeclimatizacao",
+      "ms": 412
+    }
+  },
+  "0x999a7b035be91d:0xa9343c0893a600ad": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://localrefrigeracao.com.br/",
+      "ms": 1592
+    }
+  },
+  "0x9991e2a3eeba91:0xbc5a6bddfbcda83f": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://www.hgmrefrigeracaoeeletrica.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://www.hgmrefrigeracaoeel)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9973814b6bd543:0xcdf2a8fa0e76c676": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/climademontanharefrigeracao?igsh=d2Fia3BucWF0dnM2&utm_source=qr"
+    },
+    "instagram": {
+      "usuario": "climademontanharefrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/climademontanharefrigeracao/",
+      "nomePerfil": null,
+      "seguidores": 14000,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-08-25",
+      "diasDesdeUltimo": 62,
+      "postsUltimos90": null,
+      "reelsNaGrade": 5,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:22:50.681Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x998fcfbf330de5:0x65ad6cb34c61941a": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/ars.refrigeracao1?igsh=Z2o5b3hjNDlicWR2"
+    },
+    "instagram": {
+      "usuario": "ars.refrigeracao1",
+      "existe": true,
+      "url": "https://www.instagram.com/ars.refrigeracao1/",
+      "nomePerfil": null,
+      "seguidores": 203,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-20",
+      "diasDesdeUltimo": 6,
+      "postsUltimos90": null,
+      "reelsNaGrade": 11,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:22:55.835Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x99659efcc48fe1:0x7181b15aa2ad34ef": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x995d8473fc1fdb:0x876f4664f1c470cf": {
+    "site": {
+      "tipo": "sem site",
+      "url": "http://www.facebook.com/acdavoli"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99eda3d5c832df:0x40f71b9c0a39ed9c": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x999aebdf620829:0x4735be85f93bcd00": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997f429cc06e9d:0x67da3114fcecdc3f": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.prontoar.com.br/",
+      "ms": 3810
+    }
+  },
+  "0x99637ebb840fb5:0x631369af32846a13": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x8fa42a573222309b:0x5df43fe59ea33934": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/gbmclimatizacao?igsh=YjQ4MTUzYnZiZnF4&utm_source=qr"
+    },
+    "instagram": {
+      "usuario": "gbmclimatizacao",
+      "existe": true,
+      "url": "https://www.instagram.com/gbmclimatizacao/",
+      "nomePerfil": null,
+      "seguidores": 61,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-07-09",
+      "diasDesdeUltimo": 109,
+      "postsUltimos90": null,
+      "reelsNaGrade": 7,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:24:41.720Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9991817cf90ca3:0x6749c9f2d9114964": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://climatizacaorio.com.br/",
+      "ms": 800
+    }
+  },
+  "0x9965380318a47b:0x27cf0be246b74325": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997f03a945cf35:0x9692466efc175438": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.aprefrigeracao.com.br/",
+      "ms": 1653
+    }
+  },
+  "0x9bd52afe71740b:0xe92cd74414cbc321": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/5521969408099"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0xa044a62ba621b29d:0xa68683d4d41263da": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/davibarros_refrigeracao?igsh=MWFqNWxxbWF4NXFnNQ=="
+    },
+    "instagram": {
+      "usuario": "davibarros_refrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/davibarros_refrigeracao/",
+      "nomePerfil": null,
+      "seguidores": null,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": null,
+      "diasDesdeUltimo": null,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 0,
+      "itensNaGrade": 0,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:25:25.353Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x99653bf10266cb:0x384e13828642f891": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/dc_climatizacaorio?igsh=dW43enNkbHF2YTk0&utm_source=qr"
+    },
+    "instagram": {
+      "usuario": "dc_climatizacaorio",
+      "existe": true,
+      "url": "https://www.instagram.com/dc_climatizacaorio/",
+      "nomePerfil": null,
+      "seguidores": 2055,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-09-23",
+      "diasDesdeUltimo": 33,
+      "postsUltimos90": null,
+      "reelsNaGrade": 8,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:25:30.350Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x4006cd31c957d185:0x38dc5fc7e461e6c2": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://jim.com/a/tecnoarnit",
+      "ms": 2018
+    }
+  },
+  "0xabb06834baaa1179:0x57943726646cf4dc": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x999129bfbefccf:0xaa46ddcb96070d8c": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://nsservices.com.br/",
+      "motivo": "fora do ar (net::ERR_CERT_COMMON_NAME_INVALID at https://nsservices.com.)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997faaec428cf1:0x8780e879083fb6f8": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.eduairclean.com.br/",
+      "ms": 997
+    }
+  },
+  "0x996f71ffaa7513:0xf530d43eb1cc02c3": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://refrigeracaopontocerto.com/",
+      "motivo": "fora do ar (net::ERR_BLOCKED_BY_CLIENT at http://refrigeracaopontocerto.)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9be117be67e1ff:0x60ec5fcef052fce": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://hp.refrigeracao.com/",
+      "ms": 1696
+    }
+  },
+  "0x99711c983ca475:0x545a7c44f70f09c0": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997b73a93ebe99:0xb058986247bc1fe2": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://gseletricaerefrigeracao.com.br/",
+      "ms": 743
+    }
+  },
+  "0x997f0001f0ac4f:0x1afc103c6d1160fd": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://climagasrio.com.br/",
+      "ms": 2162
+    }
+  },
+  "0x99bffea1db109f:0x5cf1a101bd0ab874": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://instagram.com/climatizarfamilia?igshid=OGQ5ZDc2ODk2ZA=="
+    },
+    "instagram": {
+      "usuario": "climatizarfamilia",
+      "existe": true,
+      "url": "https://www.instagram.com/climatizarfamilia/",
+      "nomePerfil": null,
+      "seguidores": 1234,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-08-01",
+      "diasDesdeUltimo": 86,
+      "postsUltimos90": null,
+      "reelsNaGrade": 4,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:27:06.530Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0xecb5428a180b495:0x269c7720d9205f28": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.aquecegasservicos.com/",
+      "ms": 1212
+    }
+  },
+  "0x6285075f61fdb49d:0x7499d8ce9364c30f": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://68fb9c5258554.site123.me/",
+      "motivo": "construtor grátis (68fb9c5258554.site123.me)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9be5005fb8af63:0xc8688da03bd3aa14": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9985f53dd6b673:0x379331e23da3e9bc": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://andraderefrigeracao.com.br/",
+      "ms": 2186
+    }
+  },
+  "0x9997690ef0856b:0x6870be0d33cf11b2": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.solutudo.com.br/empresas/rj/s-goncalo/refrigeracao-assistencia-tecnica/ativamaq-4768662",
+      "ms": 2015
+    }
+  },
+  "0x41e236ab22fa6811:0xe059c89dd50e072c": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/puroarclima?igsh=MWQwaDZtNjMyMm11dQ=="
+    },
+    "instagram": {
+      "usuario": "puroarclima",
+      "existe": true,
+      "url": "https://www.instagram.com/puroarclima/",
+      "nomePerfil": null,
+      "seguidores": 117,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-05-26",
+      "diasDesdeUltimo": 153,
+      "postsUltimos90": null,
+      "reelsNaGrade": 4,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:27:56.443Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x6117cbd37e1c361b:0xdb28ba260db243f8": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0xacdbbfd5bf3ae86f:0x3af2c167b372d92d": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://aguia-climatizacao-eletrica-rj.netlify.app/",
+      "motivo": "construtor grátis (aguia-climatizacao-eletrica-rj.netlify.app)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x4541b1c055b7566d:0x7ae4879d99e202c2": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9be3a2158a69bd:0x25cc3dbb1a3a835b": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://sites.google.com/view/refrigeramais-rj/in%C3%ADcio"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99838e3fffd5af:0xe1f77d32017f4442": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997fa0e70eaad9:0x1f24fbecc367bf28": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9963cb370e467d:0x7ca48c45220fd028": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996514c5e4846b:0x2257e89fed3382b6": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://craarcondicionado.com.br/",
+      "ms": 394
+    }
+  },
+  "0x6dd4cb43a962fce3:0x93425f11332b528f": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x6bff275447a1d407:0xf02da4470c6d5d83": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://glacialarclimatizacao.com/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://glacialarclimatizacao.)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x4bd8c08bac8cd655:0x14e4b41f195676e3": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0xef066d41283328f:0x36f8b1e0574041a6": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://standaclimatizacao.com.br/",
+      "ms": 1673
+    }
+  },
+  "0x996fc042100be5:0x5a365908ee074f73": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.maqpolar.com.br/",
+      "ms": 4277
+    }
+  },
+  "0x997dcde8bfd275:0x1ea1141003ee9b87": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://coldking.com.br/",
+      "ms": 2397
+    }
+  },
+  "0x99670a6c200a73:0x2babbf500f1f3059": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.refrigeracaocatavento.com.br/",
+      "ms": 2392
+    }
+  },
+  "0x997fb91fcdbb03:0xb7c0ba27d5d646b3": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99839951810b79:0x78fb615cb74732ad": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.facebook.com/share/1Bjjb9fVyg/https://www.facebook.com/share/1Bjjb9fVyg/"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x998d7c76a4dddd:0xee976e335dfb3b8a": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.marleytecrefrigeracao.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at http://www.marleytecrefrigerac)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bdd51359c3fc9:0xcbf6a6d6bbba0d3c": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://sites.google.com/view/air-city-refrigeracao/in%C3%ADcio"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9be15ba6cee4f1:0xf94418cc3189d99b": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997d31de22e361:0xc2827785a55e48f5": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.gerirrefrigeracao.com.br/",
+      "ms": 2558
+    }
+  },
+  "0x995ce07c0eba8d:0x547ea14f6e5782a1": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x998d3ee5291455:0xf375826042f1fe11": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x995d44a0564781:0x95ad0a7c5708f62f": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.victorrepara.com.br/",
+      "ms": 1484
+    }
+  },
+  "0x997b71fe258941:0xcc7a84e409499564": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x998901aa71290d:0x264b696415d406b0": {
+    "site": {
+      "tipo": "sem site",
+      "url": "http://wa.me/5521996078958"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x4734c87751121015:0xc7da5af2b18377c5": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://refrigeracaonavegarfrio.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://refrigeracaonavegarfri)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9969e3d471f93b:0x596d50d62988928": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x663df788b80efcbd:0x7a06138c63061846": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://srmreparos.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at http://srmreparos.com.br/)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd94510ed0185:0x7a3ea11f61ee1eda": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x4ae3d6e635cc989:0x3d48a1ee4df15dc8": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://meucartaovirtual.my.canva.site/ffrio?fbclid=PAAaa6vinhIUw6JZtfqxJaQ0_xWXBx4Hm3ZdFAYQa7NkPcHRacAnHIQPQ6JWw_aem_ASC3gIL_EBH20CJUMBfGhk6j17bO0Fw4hlutQAL0I8OmcWfxxEFLvrg3kTzWjHD_rFM"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bfbc79279222b:0x2ed47c29af17034e": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997fca9dcd64cd:0x8a49df715d97be6b": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x82bd8dc16d411cd1:0xd2b56966060a5894": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://instagram.com/fl_refrigeracao?igshid=MzRlODBiNWFlZA=="
+    },
+    "instagram": {
+      "usuario": "fl_refrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/fl_refrigeracao/",
+      "nomePerfil": null,
+      "seguidores": 364,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-08-04",
+      "diasDesdeUltimo": 83,
+      "postsUltimos90": null,
+      "reelsNaGrade": 1,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:35:18.459Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9be1563987c1f5:0xddde82675b5e7c3f": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://instagram.com/lynart_refrigeracao?igshid=NzZlODBkYWE4Ng=="
+    },
+    "instagram": {
+      "usuario": "lynart_refrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/lynart_refrigeracao/",
+      "nomePerfil": null,
+      "seguidores": 356,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-24",
+      "diasDesdeUltimo": 2,
+      "postsUltimos90": null,
+      "reelsNaGrade": 6,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:35:23.771Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x999a5df511b499:0x5d0a6435ac835fab": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.subzerorefrigeracao.com.br/",
+      "motivo": "fora do ar (net::ERR_BLOCKED_BY_CLIENT at http://www.subzerorefrigeracao)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0xac45e00c29fdc319:0xaa6533a635c5e16e": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bdb7741b3b4b7:0x1a0da9638cad38fc": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.poloar.com.br/",
+      "ms": 768
+    }
+  },
+  "0x22eb662e65a7c995:0x6585e67583089ff5": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9985fd9583153b:0xc4866367137b1256": {
+    "site": {
+      "tipo": "sem site",
+      "url": "http://www.facebook.com/refrinit.refrinit"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996511e3c1b8eb:0xf258fdc55d2c8862": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99656b5f60b463:0x523d174c32165079": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/jmrefrigeracao_rj?cplk=bjN2dXNjNjFuajZz"
+    },
+    "instagram": {
+      "usuario": "jmrefrigeracao_rj",
+      "existe": true,
+      "url": "https://www.instagram.com/jmrefrigeracao_rj/",
+      "nomePerfil": null,
+      "seguidores": 494,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-02-04",
+      "diasDesdeUltimo": 264,
+      "postsUltimos90": null,
+      "reelsNaGrade": 11,
+      "itensNaGrade": 12,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:36:36.058Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x9bd5a3e0232233:0xdc6568ad6d9ef9ec": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/rf_fluir_?igsh=cjJ6MWN5emR5MHFt"
+    },
+    "instagram": {
+      "usuario": "rf_fluir_",
+      "existe": true,
+      "url": "https://www.instagram.com/rf_fluir_/",
+      "nomePerfil": null,
+      "seguidores": null,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": null,
+      "diasDesdeUltimo": null,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 0,
+      "itensNaGrade": 0,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:36:42.216Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x6cd999d8b99a31d:0x2eefe87051093579": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.centralfriosolucoes.com.br/",
+      "ms": 3827
+    }
+  },
+  "0x47610186d2d28627:0x9208977d261fb46e": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/polar_riorefrigeracao?igsh=azl3dnRqNGJvZHRn"
+    },
+    "instagram": {
+      "usuario": "polar_riorefrigeracao",
+      "existe": true,
+      "url": "https://www.instagram.com/polar_riorefrigeracao/",
+      "nomePerfil": null,
+      "seguidores": 346,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-24",
+      "diasDesdeUltimo": 2,
+      "postsUltimos90": null,
+      "reelsNaGrade": 6,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:36:47.672Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x990de0ecc4e739:0xf9df5b2002fb2778": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/tcaarcondicionado/"
+    },
+    "instagram": {
+      "usuario": "tcaarcondicionado",
+      "existe": true,
+      "url": "https://www.instagram.com/tcaarcondicionado/",
+      "nomePerfil": null,
+      "seguidores": 96,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-12",
+      "diasDesdeUltimo": 14,
+      "postsUltimos90": null,
+      "reelsNaGrade": 1,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:36:52.949Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x88f5079c67784235:0x9982a9681785e2eb": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997fd19cca2337:0x35bb354ee6226175": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x998511252de7c1:0x97ea8c1bb6c88812": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://tectrimrefrigeracao.com.br/",
+      "ms": 1774
+    }
+  },
+  "0x995f90cad9f4f1:0xded81ff8d3938811": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996312d3f79d0f:0x43fd841fdfa3140": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.facebook.com/RibeiroRefrigeracaoeContrucaoCivil?mibextid=ZbWKwL"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bc393f64446e7:0x3da8b217cc262347": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://tecclimarecreio.com.br/",
+      "ms": 1792
+    }
+  },
+  "0x9bd5ac3949725f:0x2ace25a5bc5026a5": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/5521970240375"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997db736fa62e9:0x3f533a5146befbd9": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.friocertoinstalacoes.com/",
+      "motivo": "fora do ar (net::ERR_BLOCKED_BY_CLIENT at http://www.friocertoinstalacoe)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0xa22d8c3abc79040d:0xb90939baead0c46d": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.domclimatizacaoeletrica.com.br/",
+      "ms": 1075
+    }
+  },
+  "0x9bd53d8ec0a7e5:0xd0c3c33f128cab79": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/megax.mconstrucao?igsh=Z2szNjF4dmVjbHFl"
+    },
+    "instagram": {
+      "usuario": "megax.mconstrucao",
+      "existe": true,
+      "url": "https://www.instagram.com/megax.mconstrucao/",
+      "nomePerfil": null,
+      "seguidores": null,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": null,
+      "diasDesdeUltimo": null,
+      "postsUltimos90": 0,
+      "reelsNaGrade": 0,
+      "itensNaGrade": 0,
+      "ativo": false,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:38:55.922Z",
+      "fonte": "Maps"
+    }
+  },
+  "0x998f7572558729:0x3d9a47cdcb8afc83": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.facebook.com/profile.php?id=100079085233702"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99779f59ac7151:0xf2ed8be7d926b72b": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9967c53f3572a1:0x5fd9230ab0d909c1": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996fb606c2b007:0x364a07bcffe1ef05": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://www.temprio.com.br/",
+      "ms": 2410
+    }
+  },
+  "0xab60ddd27d95d83:0xaf25fc6004e578c2": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997fe48ed8ddb3:0x83d1707c5da2dc06": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/message/GYCQR2Y4DOCOC1"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x2a418485bc331feb:0x31efcd1e9c4fe1c": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd590e1a60d47:0xf97570050e3e1955": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://termoicecontatorj.wixsite.com/climatizacao",
+      "motivo": "construtor grátis (termoicecontatorj.wixsite.com)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bc321ad60bfbb:0xde8050d1a8575049": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/5521974665851?text=Ol%C3%A1%20vim%20pelo%20Google%20e%20preciso%20de%20conserto"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bdd64e4e118d7:0x5f356373a29eb654": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9971cc46123f67:0x3d7f35c189502437": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9959492e7bc1b9:0x6766dcf8d72f2fca": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://principal-refrigeracao.negocio.site/?utm_source=gmb&utm_medium=referral"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997dfbfaa13c0d:0x3c3d89675b22c5a3": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996333b89496d9:0x5f012550cf2c9598": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996305b3b42529:0xd3cff2dd0672e210": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.intercool.com.br/",
+      "ms": 2208
+    }
+  },
+  "0x9be3e98cd95ca5:0xbb6cd3ca6f3d1a57": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x6521704d2f4a6ed3:0x265e0493a4caafe4": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://knauers.com.br/",
+      "ms": 3872
+    }
+  },
+  "0x9bdf84998c55b5:0x745bf600278a8a34": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://polorioclimatizacao.com.br/",
+      "ms": 1555
+    }
+  },
+  "0x9966583c05faf3:0xfb0951337263b89c": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.tbcarcondicionados.com.br/",
+      "motivo": "fora do ar (net::ERR_BLOCKED_BY_CLIENT at http://www.tbcarcondicionados.)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99592ffa94634f:0x44048077ba7f5741": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://www.wrefrigeracao.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at http://www.wrefrigeracao.com.b)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996f5956917b99:0x1dc41ad52397b2c1": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://airfrioclimatizacao.com.br/",
+      "ms": 3156
+    }
+  },
+  "0x9bd9665487f365:0x7fd85e0a9e421fb2": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/p/CVnN7xSFQLw/?utm_medium=copy_link"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x6e68d86fbe2cd343:0x76d1524048503578": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9967bc61467d05:0x478161eb15ce7517": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997b8931e33ecb:0xd16c8e352e26f473": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997b90aceb680d:0x54dae20498ee49a0": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://lojadear.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://lojadear.com.br/)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd934a9e54d3d:0x834f592957d60f15": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://avrefrigeracao.com.br/",
+      "ms": 2213
+    }
+  },
+  "0x99839d10e52eff:0x6a0e0d5806827e16": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9983c5448034d7:0x8c6105c5480f20d6": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x996923c0b15961:0x871ba4395710196b": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bddc79603e925:0xf4695513df108b22": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://refriuni.com/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at http://refriuni.com/)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bc2a444c4e933:0x3c1ea6ef68f92e81": {
+    "site": {
+      "tipo": "sem site",
+      "url": "http://www.facebook.com/3MREFRIGERACAO/"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99912caa8c2e6d:0x3ebfb94553e6fc91": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.instagram.com/gsb_climatizacao?utm_source=qr&igsh=MTJ1bno4dmZqejkwdA=="
+    },
+    "instagram": {
+      "usuario": "gsb_climatizacao",
+      "existe": true,
+      "url": "https://www.instagram.com/gsb_climatizacao/",
+      "nomePerfil": null,
+      "seguidores": 778,
+      "posts": null,
+      "bio": "",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "por confirmar",
+      "ultimoPost": "2026-10-25",
+      "diasDesdeUltimo": 1,
+      "postsUltimos90": null,
+      "reelsNaGrade": 3,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:45:50.213Z",
+      "fonte": "Maps",
+      "reposto": "dados da auditoria de 2026-10-26T21:35 (perfil depois bloqueado pela parede de login)"
+    }
+  },
+  "0x999a512c05da11:0xcd1b12c3d53ab992": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.facebook.com/www.wjcrefriclima.com.br/"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997d65bcc597fd:0x33543c4d3c524845": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://jfrefrigeracaoeaquecimento.com.br/",
+      "motivo": "lento (7.6 s até carregar)",
+      "ms": 7628
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd9088e83e29d:0x250e1f25d159e59d": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://alfatechclimatizacoes.com.br/",
+      "ms": 2554
+    }
+  },
+  "0x997b2eca9c7a99:0x7e8deedef9d20cec": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9973305db07963:0x1e71f2149c62f2c1": {
+    "site": {
+      "tipo": "sem site",
+      "url": "http://instagram.com/pej_solucoes/"
+    },
+    "instagram": {
+      "usuario": "pej_solucoes",
+      "existe": true,
+      "url": "https://www.instagram.com/pej_solucoes/",
+      "nomePerfil": "PEJ Climatização RJ | Split",
+      "seguidores": 2206,
+      "posts": 224,
+      "bio": "❄️ Compre seu Ar Condicionado conosco\n🏆 Somos @parceiro.centralar oficial\n🛠️ Instalação • Manutenção • PMOC\n📍Atendimento no RJ\n👇 Faça seu orçamento",
+      "email": null,
+      "linkBio": null,
+      "tipoLinkBio": "sem link",
+      "ultimoPost": "2026-10-23",
+      "diasDesdeUltimo": 3,
+      "postsUltimos90": 9,
+      "reelsNaGrade": 6,
+      "itensNaGrade": 12,
+      "ativo": true,
+      "versao": 2,
+      "auditadoEm": "2026-10-26T22:47:03.021Z",
+      "fonte": "Maps"
+    }
+  },
+  "0xae8de406b11a425f:0x5a822ae5eb48c01f": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99ed182eb36de1:0x60285417a52145be": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99619fd8db74cd:0x95bf91cb39da1409": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.coldrio.com.br/",
+      "ms": 4598
+    }
+  },
+  "0x997d5b0928ca39:0xb360833f3e527da1": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997b705a182a8f:0xe66b720bd49311a6": {
+    "site": {
+      "tipo": "amador",
+      "url": "https://www.engenhariasgarcias.com.br/",
+      "motivo": "fora do ar (net::ERR_NAME_NOT_RESOLVED at https://www.engenhariasgarcias)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9975138469c54d:0x4f2d1641b632d1a4": {
+    "site": {
+      "tipo": "amador",
+      "url": "http://mecatronicaluisa.wixsite.com/mecatronicaluisa",
+      "motivo": "construtor grátis (mecatronicaluisa.wixsite.com)"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x99edd1b726710f:0x64a45c8d3fdc6d31": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9991541ce5e2a5:0x410c0e652f65529a": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.andradeservice.com.br/",
+      "ms": 3356
+    }
+  },
+  "0x6786860564bda2ab:0x47aa9f2689ac4d8b": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://graucertoclimatizacao.com.br/",
+      "ms": 5207
+    }
+  },
+  "0x9bd90fe9dc537b:0xc2e0117f3863d8eb": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://s1pro.com.br/cbpclima/",
+      "ms": 1916
+    }
+  },
+  "0x9be5618145607f:0x201fab4a06672eca": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd5f96eacfecb:0x441c031caf33a859": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/5521969794505"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9bd51ffacb30c7:0x67a0210e29522b2e": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://wa.me/5521987194653"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x997f5ac7133d31:0xb431cd78974cbadf": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://consertario.com/",
+      "ms": 2030
+    }
+  },
+  "0x9bd90061bf0471:0x59d22f2539d5c7a5": {
+    "site": {
+      "tipo": "sem site",
+      "url": null
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x9be740f34e67d7:0x86d04b6c44b92e54": {
+    "site": {
+      "tipo": "sem site",
+      "url": "https://www.facebook.com/profile.php?id=100005157467620&mibextid=ZbWKwL"
+    },
+    "instagram": null,
+    "tentativaIg": 2
+  },
+  "0x4fe58d0f2a42402b:0xd2bbc46e278007d2": {
+    "site": {
+      "tipo": "profissional",
+      "url": "https://marinhoassistencia.com.br/",
+      "ms": 728
+    }
+  },
+  "0x99631c22eb69c5:0xb20007a7b5a602fb": {
+    "site": {
+      "tipo": "profissional",
+      "url": "http://www.cterc.com.br/",
+      "ms": 3015
+    }
+  }
+}
